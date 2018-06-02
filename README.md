@@ -1,4 +1,4 @@
 # ci-simple-datatable
 Codeigniter Datatables Simple
 
-[https://github.com/ronisaha/ci-base-model](https://github.com/ronisaha/ci-base-model)
+CI_Base_Model menggunakan [https://github.com/ronisaha/ci-base-model](https://github.com/ronisaha/ci-base-model)
